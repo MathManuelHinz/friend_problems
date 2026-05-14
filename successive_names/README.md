@@ -3,7 +3,7 @@
 Given an alphabet of $N$ symbols (here identified with integers), what is the chance that your $l$ closest friends have successive names? I.e. what is the chance the first symbols can be sorted to be
 $$i,i+1,\dots,i+l-1,$$. 
 
-In particular consider $N=5, l=4$.
+In particular consider $N=26, l=4$.
 
 ## Calculation
 
